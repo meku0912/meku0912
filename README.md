@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meku0912
+- 👋 Hi, I’m Oswald Bahati Raymond
 - 👀 I’m interested in Data analysts professional 
 - 🌱 I’m currently learning Data analyst
 - 💞️ I’m looking to collaborate on people who having the same character of Data Analyst
